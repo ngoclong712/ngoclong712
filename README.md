@@ -40,12 +40,25 @@ Email: vanngoclong2003@gmail.com
 
 ---
 
+## 📊 Stats & Coding Activity
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoclong712&layout=compact&theme=radical)
+
+### ⏱️ WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+---
+
 ✨ *“Every expert was once a beginner. Keep coding, keep learning.”* ✨
 <!--
 **ngoclong712/ngoclong712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoclong712&show_icons=true&theme=radical)  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
