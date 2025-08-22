@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *' # runs every 6 hours
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 cho phép ghi vào repo
+
 jobs:
   update-readme:
     name: Update Readme with WakaTime stats
@@ -13,3 +16,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 👈 dùng token mặc định của GitHub để commit
