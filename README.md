@@ -47,6 +47,12 @@ Email: vanngoclong2003@gmail.com
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+PHP              0 secs          ██████████████████▒░░░░░░   73.98 %
+Blade Template   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+```
+
 <!--END_SECTION:waka-->
 
 
