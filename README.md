@@ -49,8 +49,8 @@ Email: vanngoclong2003@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              0 secs          ██████████████████▒░░░░░░   73.98 %
-Blade Template   0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Blade Template   0 secs          █████████████████████░░░░   84.47 %
+PHP              0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
 ```
 
 <!--END_SECTION:waka-->
