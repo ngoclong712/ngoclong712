@@ -29,3 +29,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE_TIME: "True"
