@@ -17,20 +17,20 @@
 
 ## 🚀 Projects
 
-- **🍞 [Bakery Management System (PHP)](https://github.com/ngoclong712/Bakery_Management_System)**  
-  A web application built with pure PHP for managing a bakery shop.  
-  Features: authentication, cart with sessions, CRUD for products and manufacturers, order management, email notifications, and statistics with jQuery + AJAX.  
-
-- **📚 [Laravel Learning Playground](https://github.com/ngoclong712/web_laravel)**  
-  A series of mini-projects and exercises while learning Laravel.  
-  Covered topics: CRUD, Middleware, Validation, Pagination, Eloquent & Query Builder, Relationships, Seeder & Factory, Enum, Observer, Event & Listener, Notification, AJAX with Datatables, and more.  
-
 - **💼 [Job Recruiter Website (Laravel)](https://github.com/ngoclong712/web_moi_gioi_viec_lam)**  
   A recruitment platform supporting three roles: **Admin**, **Employer**, and **Candidate**.  
   - Admin: manage users, job posts, reports, and site content.  
   - Employer: create/manage recruitment posts, search CVs, update company info.  
   - Candidate: search/apply for jobs, upload CVs, save jobs, report violations.  
-  Also includes file management, job filtering, and localization support.  
+  Also includes file management, job filtering, and localization support.
+
+- **📚 [Laravel Learning Playground](https://github.com/ngoclong712/web_laravel)**  
+  A series of mini-projects and exercises while learning Laravel.  
+  Covered topics: CRUD, Middleware, Validation, Pagination, Eloquent & Query Builder, Relationships, Seeder & Factory, Enum, Observer, Event & Listener, Notification, AJAX with Datatables, and more.  
+
+- **🍞 [Bakery Management System (PHP)](https://github.com/ngoclong712/Bakery_Management_System)**  
+  A web application built with pure PHP for managing a bakery shop.  
+  Features: authentication, cart with sessions, CRUD for products and manufacturers, order management, email notifications, and statistics with jQuery + AJAX.    
 
 ---
 
