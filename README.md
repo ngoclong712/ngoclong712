@@ -47,7 +47,7 @@ Email: vanngoclong2003@gmail.com
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -87,7 +87,7 @@ IntelliJ IDEA            1 hr 19 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 13/11/2025 02:02:04 UTC
+ Last Updated on 13/11/2025 06:38:43 UTC
 <!--END_SECTION:waka-->
 
 
