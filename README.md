@@ -47,7 +47,7 @@ Email: vanngoclong2003@gmail.com
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -74,14 +74,18 @@ Sunday                   56 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      39 mins             ████████████████░░░░░░░░░   63.37 % 
+Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+textmate                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+NEON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/02/2026 18:47:41 UTC
+ Last Updated on 16/02/2026 02:47:54 UTC
 <!--END_SECTION:waka-->
 
 
