@@ -47,41 +47,8 @@ Email: vanngoclong2003@gmail.com
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2040%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                307 commits         ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌆 Daytime                294 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-🌃 Evening                297 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   216 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tuesday                  260 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Wednesday                100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Friday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Saturday                 67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 17/05/2026 13:46:03 UTC
+ Last Updated on 17/05/2026 19:18:41 UTC
 <!--END_SECTION:waka-->
 
 
